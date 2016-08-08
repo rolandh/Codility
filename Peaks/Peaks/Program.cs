@@ -12,7 +12,7 @@ namespace Peaks
         {
             int[] array = new int[] { 1, 2, 5,   4, 5, 4,   1, 5, 3,   4, 6, 2 };
             int[] array2 = new int[] { 0, 50, 49,  51, 52, 0 };
-            int[] array3 = new int[] { 1,2,-100,2,1 };
+            int[] array3 = new int[] { 1,2,-100,2,1,2 };
             int[] array4 = new int[] { 1 };
             int[] array5 = new int[] { 1, 2, 3, 4,  3, 4, 1, 2,  3, 4, 6, 2 };
 
